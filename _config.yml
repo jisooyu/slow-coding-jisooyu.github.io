@@ -23,23 +23,22 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://github.com/jisooyu/slow-coding-jisooyu.github.io"
+# E.g. 'https://username.github.io', note that it does not end with a '/'.
+url: "https://slow-coding-jisooyu.github.io"
 
 github:
-  username: "jisooyu" 
+  username: jisooyu
 
 twitter:
-  username: "banteryu"
+  username: "banteryu"   # 또는 "@banteryu" 도 OK (따옴표는 필수로 유지)
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: "slow_coding jisooyu
+  name: "slow_coding jisooyu"
   email: "jisooyu@hotmail.com" # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
-    # The first element serves as the copyright owner's link
-    - https://x.com/banteryu # change to your Twitter homepage
     - https://github.com/jisooyu/slow-coding-jisooyu.github.io # change to your GitHub homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/hr.yu.9/
